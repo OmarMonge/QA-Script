@@ -1,0 +1,242 @@
+_id,Test #,Build #,Category,Test Case,Expected Result,Actual Result,Repeatable?,Blocker?,Test Owner
+660cfb111b1dc82d370b19c2,2,2024-03-19 00:00:00,Adventure Select Screen,User clicked on the Adventures button from the main menu options.,User is able to click on the icons and buttons present on the screen.,Nothing happens when user clicks on the Back button to return to the main menu.,Yes,Yes,Yana Zaynullina
+660cfb111b1dc82d370b19c3,3,2024-03-19 00:00:00,Adventure Select Screen,"User clicked on the Adventures button from the main menu options. Once there, user clicks on one of the level selection bubbles on the map to start the adventure. It opens another sliding screen from the right.",User is able to click on the icons and buttons present on the screen.,Nothing happens when user clicks on the Play button to start the adventure.,Yes,Yes,Yana Zaynullina
+660cfb111b1dc82d370b19cb,1,2024-03-20 00:00:00,Adventure Mode,Bug Case: Cannot leave screen and clicks do not register,"Be able to play adventure mode or if not ready, be able to back out",User is stuck in the adventure mode screen and has to close the game to get out of Adventure Mode,Yes,Yes,Inderjit Singh
+660cfb111b1dc82d370b19cf,1,2024-03-16 00:00:00,Arena match,Bug: says match but timer is stucknothing happens,Match startes,The arena page comes up but the timer is stuck,Yes,Yes,Mimi Truong
+660cfb111b1dc82d370b19d1,3,2024-03-16 00:00:00,Adventure select,Bug: back button doesn’t work,Back button goes back to home page,nothing happens now I have to refresh and authenticate everything all over again :(,Yes,Yes,Mimi Truong
+660cfb111b1dc82d370b19d2,4,2024-03-16 00:00:00,Arena match,bug: Timer froze at 66,timer continues till player is done with turn,timer froze and now cant do anything,Yes,Yes,Mimi Truong
+660cfb111b1dc82d370b19dd,4,2024-03-19 00:00:00,Accessing the game,Bug,"I expect that when I click on ""Arena"" I can start playing the game.","When I click ""Arena"" there is a dim screen displayed that does not display any additional ""features"" of the game.",Yes,Yes,Mirna Farahat
+660cfb111b1dc82d370b19de,5,2024-03-19 00:00:00,Trying to play the game,Bug,I expect that the game functions flawlessly without any glitches,"When I clicked on ""Arena"" there was a sudden glitch that showed the AI player repeatedly putting down the same card in the same spot",No,Yes,Mirna Farahat
+660cfb111b1dc82d370b19df,4,2024-03-18 00:00:00,Adventure Select,Home icon on top right does nothing,To go back to main menu,Nothing happened,Yes,Yes,Artim Trofimenko
+660cfb111b1dc82d370b19e3,0,2024-03-19 00:00:00,Gameplay Tutorial,"Bug: After clicking the cards when it was not my turn, a black overlay appeared and did not close so I was unable to click the draw card button",I expected the draw button to be clickable when I was required to click it,A black overlay appeared after clicking on cards and their options when it was not my turn and I was unable to click the draw button to progress the tutorial,Yes,Yes,Katrina Ortiz
+660cfb111b1dc82d370b19e4,1,2024-03-19 00:00:00,Deck Builder Tutorial,"Bug: If you click on NFTs section and then attempt to complete the task where you need to add 20 Guardians to the deck but don't have enough cards, you cannot exit out to pick the other section ""Free to Use"" to be able to add more cards","I expected to be able to exit out of the NFTs section to navigate to the ""Free to Use"" section to add more cards","Since there were not enough cards in the NFTs section of the Deck Builder Tutorial when adding cards to my deck, I was unable to exit and navigate to the ""Free to Use"" section and progress the tutorial",Yes,Yes,Katrina Ortiz
+660cfb111b1dc82d370b19e5,2,2024-03-19 00:00:00,Deck Builder Tutorial,Bug: There is no way to exit the Deck Builder Tutorial,I expected there to be a way to exit the Deck Builder Tutorial like there is for the Gameplay Tutorial,There is no way to exit the Deck Builder Tutorial and a refresh is required to get out,Yes,Yes,Katrina Ortiz
+660cfb111b1dc82d370b19f1,0,2024-03-17 00:00:00,Game/Main Page,The buttons do not respond in adventure select.,Clicking a button should perform the indicated task.,Clicking on a button does not result in any action.,Yes,Yes,Raymond Gharapeti Babayans
+660cfb111b1dc82d370b19f2,1,2024-03-18 00:00:00,Game/Main Page,"Unable to add a card in a previously created deck in deck builder, after removing it.",The selected card should be added to the deck.,Clicking on the card does not place it in the deck.,Yes,Yes,Raymond Gharapeti Babayans
+660cfb111b1dc82d370b19fa,2,2024-03-18 00:00:00,UI,Bug: Adventure mode,Play adventure mode,Still does not atleast let you leave the mode to go back to main menu even though it does not work currently,Yes,Yes,Ramon
+660cfb111b1dc82d370b19fd,2,2024-03-18 00:00:00,UI,Bug: Adventure mode,Play adventure mode,Still does not atleast let you leave the mode to go back to main menu even though it does not work currently,Yes,Yes,Kevin Chaja
+660cfb111b1dc82d370b1a07,1,2024-03-19 00:00:00,Game,bug: I got disconnected from the servers,Play the game,Got disconected in the middle of the game,no,Yes,Jorge Torrez
+660cfb111b1dc82d370b1a0b,2,2024-02-27 00:00:00,game play,"I tried again an hour later it worked while doing the 1st Tutorial 1 minute in logged me out and I still heard the game music, but I am out of the game and couldn’t login again.",Play the tutorial,game logged out,"I don’t know, couldn’t login again",Yes,Hampig Kodjanian
+660cfb111b1dc82d370b1a15,2,2024-03-19 00:00:00,Login/UI/Game/Tutorials,Bug: Search feature doesn't function properly in tutorial,"When I go to the search bar in the tutorial, I was expecting the search to filter out the results by the one I am looking for","When I searched a tutorial, It didn't return any filtered results and the screen just remained the same as it did when I arrived at the screen.",Yes,Yes,Omar Garcia
+660cfb111b1dc82d370b1a16,3,2024-03-19 00:00:00,Login/UI/Game,Bug: The delete (x) button doesn't work anywhere,"When I type something in the search bar for tutorial or to find friends, I expect that when I hit the delete (x) button,it would clear my entry in the search bar","When I actually press the delete (x) button, it does not anything.",Yes,Yes,Omar Garcia
+660cfb111b1dc82d370b1a17,1,2024-03-19 00:00:00,Game,"Bug: Adventure mode does not seem to be working, can enter the UI but once loaded, nothing works",Start a battle,UI buttons not working,Yes,Yes,Ryan Kao
+660cfb111b1dc82d370b1a18,2,2024-03-19 00:00:00,Login,"user case: Having complications with signing in, had very long loading",Verification process succeeds,Be able to load into game,no,Yes,Ryan Kao
+660cfb111b1dc82d370b1a19,3,2024-03-19 00:00:00,Game,User case: Game would freeze midway and would have to refresh browser,Battle opponent,Froze requiring a restart,no,Yes,Ryan Kao
+660cfb111b1dc82d370b1a3e,2,2024-03-19 00:00:00,Login/Adventure,Home button does not work,Return to the main menu,Nothing happens,yes,Yes,Jorge Enriquez
+660cfb111b1dc82d370b1a3f,3,2024-03-19 00:00:00,Login/News,User Case: clicking latest news or latest update does nothing,Open up a tab with past news or patch updates,Nothing happens,Yes,Yes,Jorge Enriquez
+660cfb111b1dc82d370b1a41,1,2024-03-08 00:00:00,Login,Bug: Does not log in with email.,To enter the game.,Stuck in “Login with email..”,Yes,Yes,Angel Venegas
+660cfb111b1dc82d370b1a42,2,2024-03-08 00:00:00,Game,Bug: Adventure Mode not working.,Expected to play a match.,Could not play a match.,Yes,Yes,Angel Venegas
+660cfb111b1dc82d370b1a4a,1,2024-03-19 00:00:00,Tutorial,Tutorial Does Not Load,Tutorial to pop up,Went to black screen and froze,Yes,Yes,Anthony Daulo
+660cfb111b1dc82d370b1a5f,1,2024-03-05 00:00:00,Game,Bug: Game boots me back to main menu during tutorial,Game plays normally,Logged out of game to main menu,No,Yes,Grigor Azakian
+660cfb111b1dc82d370b1a60,2,2024-03-05 00:00:00,Game,User: Latency indicator blocking GUI elements,Latency indicator owns its own spot on the page,Latency indicator covering GUI elements,Yes,Yes,Grigor Azakian
+660cfb111b1dc82d370b1a61,3,2024-03-05 00:00:00,Login,Bug: Game times out and logs me out within one minute,Logout timer lasts for a longer period of time,Logout timer logs me out very quickly,Yes,Yes,Grigor Azakian
+660cfb111b1dc82d370b1a6b,0,2024-02-27 00:00:00,Main Page,"Click add friend icon, then press back icon to return to main page",Be returned to main page once friend added,"Upon pressing the back icon to return to main page, the game would freeze and would have to log in again.",Yes,Yes,Andrew Gabriel
+660cfb111b1dc82d370b1a6c,1,2024-02-27 00:00:00,Game,Playing tutorial,Instruct us how to play as a beginner,Got kicked out the game mid tutorial,Yes,Yes,Andrew Gabriel
+660cfb111b1dc82d370b1a6e,3,2024-03-05 00:00:00,Game,Playing in arena,Play with other opponent in arena,In the middle of the game was sent back to the login page,Yes,Yes,Andrew Gabriel
+660cfb111b1dc82d370b1a6f,4,2024-03-05 00:00:00,Main Page,"Click on either arena, adventure, tutorials, nft shops, settings",register on click,"The game would not register that I'm pressing one of the options. Once it finally registered for arena button would not let me click ""cancel""",Yes,Yes,Andrew Gabriel
+660cfb111b1dc82d370b1a74,9,2024-03-18 00:00:00,Main Page,Click on Adventure and exit out of it,Be able to click on adventure and then exit out by pressing the back button or home button,None of the buttons registered had to refresh the game and sign in again,Yes,Yes,Andrew Gabriel
+660cfb111b1dc82d370b1a90,1,2024-03-19 00:00:00,Game,Bug: Infinite empty wait loop upon entering arena and connecting to an opponent.,Jump into battle vs. opponent upon clicking “Arena”.,"Unable to get to the actual battle phase, suck in first loading phase without any elements on the screen.",No,Yes,Svarun Soda
+660cfb111b1dc82d370b1a95,0,2024-03-19 00:00:00,5HeadGames/Login/EndersGate/Login,Ex user case: game did not log me in,Game launches properly after logging in from the 5 Head Games Launcher,"Receive the following error in a popup box : “screen.orientation.lock is not a function. (In ‘screen.orientation.lock(type)', 'screen.orientation.lock' is undefined)”",Yes,Yes,Narek Karapetyan
+660cfb111b1dc82d370b1a98,1,2024-03-13 00:00:00,Adventure/Home (house figure),Click to go back to the main page and nothing happen,Go back to the main page,Nothing happen,Yes,Yes,Sayra Reyes
+660cfb111b1dc82d370b1a99,2,2024-03-13 00:00:00,Home Page/Adventure/Deck Builder,Click on deck builder but nothing happen,Go to the Deck Builder,Same nothing happen,Yes,Yes,Sayra Reyes
+660cfb111b1dc82d370b1a9a,3,2024-03-14 00:00:00,Home Page/Edit Profile/Player Frame,When I click on player frame nothing happen,To appear a player frame,Nothing happen,Yes,Yes,Sayra Reyes
+660cfb111b1dc82d370b1a9b,4,2024-03-14 00:00:00,Home Page/Edit Profile/Player Title,When I click on player title nothing happen,To show the player title,"Same thing, nothing happen",Yes,Yes,Sayra Reyes
+660cfb111b1dc82d370b1a9c,5,2024-03-14 00:00:00,Home Page/Edit Profile/Player Banner,Click on player banner and nothing happen,Show player banner (I don’t know what is that),Nothing happen,Yes,Yes,Sayra Reyes
+660cfb111b1dc82d370b1aa0,4,2024-03-12 00:00:00,Game,Game,The timer should count down duing the oppenets turn,The timer stuck at 63 during turn 8 main 1,Yes,Yes,Jainivash Korisal
+660cfb111b1dc82d370b1aa2,2,2024-03-17 00:00:00,Login,Bug: Gives this error after OAth: TypeError: screen.orientation.lock is not a function,Begin gamplay,Error message,Yes,Yes,Mohammad Asim Sheikh
+660cfb111b1dc82d370b1aa3,3,2024-03-17 00:00:00,Game,User case: Reached Max capacity,Begin gameplay,"Users maxed out, tried again 10 minutes later, but same result.",Yes,Yes,Mohammad Asim Sheikh
+660cfb111b1dc82d370b1aa7,1,2024-03-17 00:00:00,Main Page,"Game will still
+ not let user return
+ to home page if
+ clicking on adventure
+ tab","Game allows
+ user to return to
+ home page","Game forces
+ you to stay on
+ adventure page",Yes,Yes,Joey Kaz
+660cfb111b1dc82d370b1aa9,3,2024-03-17 00:00:00,Game,"Timer for my player 
+ froze and showed to
+ be active for enemy AI
+ even though it was my
+ turn","Game would continue
+ as intended","Timer froze, could
+ not play game",No,Yes,Joey Kaz
+660cfb111b1dc82d370b1ab9,1,2024-03-17 00:00:00,Login,trying to login to email play,let me login,stuck at authenticating… please wait…,yes,Yes,Joshua alvarado
+660cfb111b1dc82d370b1aba,2,2024-03-17 00:00:00,Login,Login queue,login and let me play the game,login queue please try again 10 mintues,Yes,Yes,Joshua alvarado
+660cfb111b1dc82d370b1abe,1,"Use date you 
+ tested on
+ 3/13/2024",Game,"After the first phase I tried clicking on the ""Complete the tasks…."" and the botton is frozen it does nothing","Game to continue and me
+  draw cards","Screen is frozen, does not 
+ let me continue with my tutorial game",yes,Yes,Albert Atshemyan
+660cfb111b1dc82d370b1abf,2,"Use date you 
+ tested on
+ 3/13/2024",Game,"Chrome using almost 1,500 Mb, almost all of my Laptop Memory.","Game should run very smooth but it does not, very laggy. Game should run flawlesly on laptops","Screen is froze sometimes when starting tutorial. Chrome using 1,500 MB of memory.",yes,Yes,Albert Atshemyan
+660cfb111b1dc82d370b1ac0,3,"Use date you 
+ tested on
+ 3/13/2024",Game,tutorial coins don't register correctly.,"coins of 1,000 don't register to the account unless I reload the page",screen is on 0 coins until after I reload the page,yes,Yes,Albert Atshemyan
+660cfb111b1dc82d370b1ac1,4,"Use date you 
+ tested on
+ 3/13/2024",Game,Player switches tabs within the game interface.,"The game smoothly transitions to the newly selected tab, maintaining responsiveness and allowing the player to continue gameplay without interruption.","Upon switching tabs, the game freezes, becoming unresponsive to player input for an indefinite period.",yes,Yes,Albert Atshemyan
+660cfb111b1dc82d370b1ac7,1,2024-03-17 00:00:00,Game,bug : game froze when other player activated a card on my turn,card activates and I continue my turn,text box pop up saying player activated card so wait till their done but it never finished,yes,Yes,Tommy Tran
+660cfb111b1dc82d370b1af4,4,2024-03-12 00:00:00,Adventure Mode,Bug Case: Cannot leave screen and clicks do not register,"Be able to play adventure mode or if not ready, be able to back out",User is stuck in the adventure mode screen and has to close the game to get out of Adventure Mode,Yes,Yes,Inderjit Singh
+660cfb111b1dc82d370b1afd,1,"Use date you 
+ tested on
+ 3/5/2024",Login/UI/Game/Main Page,Main Page,I expected the selections to be correctly aligned but the main page seems not to load correctly and cannot select anything,selections not working properly,yes,Yes,Javier Galan
+660cfb111b1dc82d370b1b00,1,2024-03-12 00:00:00,Playing the game,Bug,"I expect that when I click ""Arena"" I am allowed to choose the cards to put down and play against my opponent","When I clicked ""Arena"", nothing happened. It showed me the ""boxes"" where I am supposed to put my cards, but there was no response when I clicked on anything",Yes,Yes,Mirna Farahat
+660cfb111b1dc82d370b1b02,4,2024-03-12 00:00:00,Accessing game,User Case,"I expect that when I try to long in to the game, it takes a few seconds to authenticate","When I tried to authenticate using my email, it displayed ""Authenticating"" for about 4 minutes and still never took me to the game",Yes,Yes,Mirna Farahat
+660cfb111b1dc82d370b1b03,5,2024-03-12 00:00:00,Game stops responding,Bug,"I expect that when I'm in the middle of my game, I can continue playing until someone wins","Game stops responding, countdown stops, I am unable to click on anything.",Yes,Yes,Mirna Farahat
+660cfb111b1dc82d370b1b05,3,2024-03-12 00:00:00,Adventure Select,Clicking PLAY does nothing,To play the level,Nothing happened,Yes,Yes,Artim Trofimenko
+660cfb111b1dc82d370b1b0b,4,2024-03-12 00:00:00,Arena,"Bug: The timer stopped counting down and it appeared that the game was frozen, despite everything being clickable",I expected the game to remain playable,The timer stopped counting down and the game appeared to be unplayable,No,Yes,Katrina Ortiz
+660cfb111b1dc82d370b1b0d,6,2024-03-12 00:00:00,Arena,"Bug: After surrendering and then quickly going back into the Arena, the game appeared to freeze and was not able to be progressed",I expected to be able to to play another game in the Arena immedietely after surrendering and entering the Arena again,The game froze when I entered into the Arena after just surrendering and immedietely entering into the Arena again,No,Yes,Katrina Ortiz
+660cfb111b1dc82d370b1b0f,8,2024-03-12 00:00:00,Main Page,"Bug: I accidentally clicked on ""Adventure"" instead of ""Arena"" and was unable to get out of the Adventure page without a refresh",I expected to be able to back out of the Adventure page,I was only able to get out of the Adventure page with a refresh and was required to sign in again,Yes,Yes,Katrina Ortiz
+660cfb111b1dc82d370b1b13,3,2024-03-12 00:00:00,Game,Playing a match,AI player finishs turn,Timer stuck and AI not making moves,No,Yes,Jack Konyan
+660cfb111b1dc82d370b1b14,4,2024-03-12 00:00:00,Login,Logining Via email,Brings up options to log in,Page never resolves,no,Yes,Jack Konyan
+660cfb111b1dc82d370b1b15,0,2024-03-07 00:00:00,Game/Main Page,The return buttons does not respond after adventure select,Clicking the button should navigate the screen to main page.,Clicking on button does not result in any action.,Yes,Yes,Raymond Gharapeti Babayans
+660cfb111b1dc82d370b1b16,1,2024-03-06 00:00:00,Game/Main Page,Game refused to load - required sign in twice,Game should launch and the loading screen should go away.,Game was stuck on loading screen.,No,Yes,Raymond Gharapeti Babayans
+660cfb111b1dc82d370b1b17,2,2024-03-10 00:00:00,Game/Main Page,Adventure select randomly caused the game to freeze,Game should process to adventure select and display the menu.,Game was stuck.,No,Yes,Raymond Gharapeti Babayans
+660cfb111b1dc82d370b1b1c,1,2024-03-12 00:00:00,UI,Bug: Adeventure mode,Play adventure mode,Nothing works/ can't go back to home page,Yes,Yes,Ramon
+660cfb111b1dc82d370b1b30,1,2024-08-03 00:00:00,Main Page,bug: I just clicked adventure and its not letting me play and do anything,Play adventure,It locked me in the adventure map,yes,Yes,Jorge Torrez
+660cfb111b1dc82d370b1b34,2,2024-02-27 00:00:00,game play,"I tried again an hour later it worked while doing the 1st Tutorial 1 minute in logged me out and I still heard the game music, but I am out of the game and couldn’t login again.",Play the tutorial,game logged out,"I don’t know, couldn’t login again",Yes,Hampig Kodjanian
+660cfb111b1dc82d370b1b3a,1,2024-03-10 00:00:00,Create Deck,"After entering an arena and choosing a deck, it doesnt let you exit to choose another card.",Choose deck and play game,Screen got stuck on card,Yes,Yes,Heather Gardner
+660cfb111b1dc82d370b1b3b,2,2024-03-11 00:00:00,Create Deck,"After entering an arena and choosing a deck, it doesnt let you exit to choose another card.",Choose deck and play game,Screen got stuck on card,Yes,Yes,Heather Gardner
+660cfb111b1dc82d370b1b3c,3,2024-03-12 00:00:00,Create Deck,How to obtain button and related cards buttons do not work,Choose deck and play game,Screen got stuck on card,Yes,Yes,Heather Gardner
+660cfb111b1dc82d370b1b3d,4,2024-03-12 00:00:00,Tutorial,It was my turn to play my character and the game froze and went back to the login page.,Gameplay for tutorial,Screen got stuck and looped back to login page,Yes,Yes,Heather Gardner
+660cfb111b1dc82d370b1b51,1,2024-03-12 00:00:00,Game,"After staying in the deck builder page for over a minute, it will log you out and you will be unable to log back in until you close the page",Not to log me out,Logs me out,Yes,Yes,Jae Molina
+660cfb111b1dc82d370b1b7c,2,2024-03-12 00:00:00,Login/Adventure,Home button does not work,Return to the main menu,Nothing happens,yes,Yes,Jorge Enriquez
+660cfb111b1dc82d370b1b7d,3,2024-03-12 00:00:00,Login/Adventure,User Case: No way of going to main menu,Either back button or home button returns to main menu,User is soft locked in Adventure select,Yes,Yes,Jorge Enriquez
+660cfb111b1dc82d370b1b80,2,2024-03-11 00:00:00,Game,Bug: Sometimes it does not let me attack.,I expected to attack.,Could not attack.,Yes,Yes,Angel Venegas
+660cfb111b1dc82d370b1b92,3,2024-03-12 00:00:00,Aren/In game,bug: can't play the game. Stuck on a screen playing music,I expected to be playing the game righ away,I am stuck on the arena screen where I only hear battle music,no,Yes,Mansoor Amza
+660cfb111b1dc82d370b1b94,5,2024-03-12 00:00:00,Authenticating page,user case: After being interuppted in my battle I was told to login. So i did and I'm stuck on the page just waiting listening to the battle music,I expected to login like normal,I am stuck in the authenticating page where I hear the battle music,no,Yes,Mansoor Amza
+660cfb111b1dc82d370b1b9d,4,2024-03-12 00:00:00,Adventure,When I click on the adventure tab non of the buttons work and I can't go back.,To be able to play the adventure tab or at least be able to go back to the home page,"Nothing, not even the home or back buttons work",Yes,Yes,Brandon Hakimi
+660cfb111b1dc82d370b1b9e,1,2024-03-05 00:00:00,Game,Bug: Game boots me back to main menu during tutorial,Game plays normally,Logged out of game to main menu,No,Yes,Grigor Azakian
+660cfb111b1dc82d370b1b9f,2,2024-03-05 00:00:00,Game,User: Latency indicator blocking GUI elements,Latency indicator owns its own spot on the page,Latency indicator covering GUI elements,Yes,Yes,Grigor Azakian
+660cfb111b1dc82d370b1ba0,3,2024-03-05 00:00:00,Login,Bug: Game times out and logs me out within one minute,Logout timer lasts for a longer period of time,Logout timer logs me out very quickly,Yes,Yes,Grigor Azakian
+660cfb111b1dc82d370b1ba1,1,2024-03-05 00:00:00,Game,Bug: Game boots me back to main menu during tutorial,Game plays normally,Logged out of game to main menu,No,Yes,Grigor Azakian
+660cfb111b1dc82d370b1ba2,2,2024-03-05 00:00:00,Game,User: Latency indicator blocking GUI elements,Latency indicator owns its own spot on the page,Latency indicator covering GUI elements,Yes,Yes,Grigor Azakian
+660cfb111b1dc82d370b1ba3,3,2024-03-05 00:00:00,Login,Bug: Game times out and logs me out within one minute,Logout timer lasts for a longer period of time,Logout timer logs me out very quickly,Yes,Yes,Grigor Azakian
+660cfb111b1dc82d370b1bb3,0,2024-02-27 00:00:00,Main Page,"Click add friend icon, then press back icon to return to main page",Be returned to main page once friend added,"Upon pressing the back icon to return to main page, the game would freeze and would have to log in again.",Yes,Yes,Andrew Gabriel
+660cfb111b1dc82d370b1bb4,1,2024-02-27 00:00:00,Game,Playing tutorial,Instruct us how to play as a beginner,Got kicked out the game mid tutorial,Yes,Yes,Andrew Gabriel
+660cfb111b1dc82d370b1bb6,3,2024-03-05 00:00:00,Game,Playing in arena,Play with other opponent in arena,In the middle of the game was sent back to the login page,Yes,Yes,Andrew Gabriel
+660cfb111b1dc82d370b1bb7,4,2024-03-05 00:00:00,Main Page,"Click on either arena, adventure, tutorials, nft shops, settings",register on click,"The game would not register that I'm pressing one of the options. Once it finally registered for arena button would not let me click ""cancel""",Yes,Yes,Andrew Gabriel
+660cfb111b1dc82d370b1bc1,1,2024-03-12 00:00:00,Game,"Bug: Went into Adventure, none of the UI was working, couldn't go back home or enter any of the locations.",Start a battle,UI buttons not working,Yes,Yes,Ryan Kao
+660cfb111b1dc82d370b1bc2,2,2024-03-12 00:00:00,Game,"user case: Went into Arena, got into battlefield but nothing else loaded",To battle opponent,Infinite load time,yes,Yes,Ryan Kao
+660cfb111b1dc82d370b1bc3,3,2024-03-12 00:00:00,Game,User case: Opponent went and instantly crashed,Be able to play in Arena,Sent back into Login screen,yes,Yes,Ryan Kao
+660cfb111b1dc82d370b1bcd,1,2024-03-07 00:00:00,UI,Unable to escape Adventure mode,Go back to main menu when clicking on back arrow in Adventure mode,Nothing happens when clicking back arrow,yes,Yes,Randy Herrera
+660cfb111b1dc82d370b1bda,1,2024-03-10 00:00:00,Game,Bug: I clicked on adventure mode and the screen got stuck on that page. I had to close the entire EG tab to reenter the game,I expected to be able to play 1-1 of AM or at least be able to exit the screen,"Screen was stuck, exit buttons did not work",yes,Yes,Haylee Allen
+660cfb111b1dc82d370b1be6,2,2024-03-09 00:00:00,UI/Game,Adventure's UI doesn't work,The UI in adventure mode should allow the user to exit/choose a mission,"Only selecting the mission works. Play/Exit/Home button does not work, leading the user to refresh the page to continue.",Yes,Yes,Bao Ngo
+660cfb111b1dc82d370b1bef,1,2024-03-08 00:00:00,Authenticating,Stuck on Authentication,Expected to authenticate me,It got stuck on the authenticating page,no,Yes,Shiva Ramezani
+660cfb111b1dc82d370b1bf0,2,2024-03-08 00:00:00,Log in,high volume of users,Expected to log in after authentication,pop up error: Due to the high volume of users not able to process,no,Yes,Shiva Ramezani
+660cfb111b1dc82d370b1bf2,1,2024-03-08 00:00:00,Authenticating,Stuck on Authentication,Expected to authenticate me,It got stuck on the authenticating page,no,Yes,Kevin Chaja
+660cfb111b1dc82d370b1bf3,2,2024-03-08 00:00:00,Log in,high volume of users,Expected to log in after authentication,pop up error: Due to the high volume of users not able to process,no,Yes,Kevin Chaja
+660cfb111b1dc82d370b1c06,1,2024-03-06 00:00:00,UI,"Game would not let
+ me leave the 
+ adventure select
+ page","Hitting the back
+ arrow would 
+ return me to the
+ main page",Does nothing,Yes,Yes,Joey Kaz
+660cfb111b1dc82d370b1c08,4,2024-03-06 00:00:00,Game,"Game will not let 
+ one of the players 
+ perform operations 
+ (draw,battle, main phase, 
+ etc.) if you leave the 
+ tab during a turn change
+ Has done both for user 
+ and AI","Game runsas 
+ normal in the 
+ background","Game glitches
+ and one of the 
+ players will not
+ be able to play
+ on their turn
+ throghout",Yes,Yes,Joey Kaz
+660cfb111b1dc82d370b1c09,5,2024-03-06 00:00:00,Game,"If for some reason you
+ attempt to draw a card 
+ during the opponent 
+ turn, the opponent cannot
+ procede","Game ignores 
+ request and lets
+ opponent play","Only you can 
+ proceed with the
+ game steps",Yes,Yes,Joey Kaz
+660cfb111b1dc82d370b1c0b,1,2024-03-07 00:00:00,Login Queue,Page not working properly,Be able to work and start playing,Page not working properly,Yes,Yes,Sayra Reyes
+660cfb111b1dc82d370b1c10,3,2024-02-27 00:00:00,Main Page,"Once user is on the Main Page screen, user clicks on the round Friends button on the right. User sees a friends menu sliding form the right. User then clicks ""Add Friend"", a screen appears, the background becomes blurry. User then clicks on the X button to close the screen. The pop-up disappers but the Main Page screen remains blurry for the user, nothing is clickable. User has to reload the game and log in again. See image file attached to the submission.",User can close the Friends pop-up using the X button and successfully return to the Main Page.,User can close the Friends pop-up using the X button but can't access the Main Page anymore.,Yes,Yes,Yana Zaynullina
+660cfb111b1dc82d370b1c13,0,2024-02-27 00:00:00,Main Page,"Click add friend icon, then press back icon to return to main page",Be returned to main page once friend added,"Upon pressing the back icon to return to main page, the game would freeze and would have to log in again.",Yes,Yes,Andrew Gabriel
+660cfb111b1dc82d370b1c14,1,2024-02-27 00:00:00,Game,Playing tutorial,Instruct us how to play as a beginner,Got kicked out the game mid tutorial,Yes,Yes,Andrew Gabriel
+660cfb111b1dc82d370b1c34,0,2024-02-21 00:00:00,Game/Main Page,Coins are offered again after completing the tutorial,Complete tutorial and continue the game,Looped behaviour after tutorial,No,Yes,Raymond Gharapeti Babayans
+660cfb111b1dc82d370b1c36,1,2024-02-27 00:00:00,Login,After completeing the tutorial and going back to the login screen it got stuck on login with email,Login with email,"Screen got stuck on ""login with email""",Yes,Yes,Heather Gardner
+660cfb111b1dc82d370b1c37,2,2024-02-27 00:00:00,Login,"After completeing the tutorial and going back to the login screen it got stuck on after authenication to ""connecting to server""",Log in and play game,"Screen got stuck on ""connecting to server""",Yes,Yes,Heather Gardner
+660cfb111b1dc82d370b1c39,4,2024-02-27 00:00:00,Game,Gameplay Tutorial,Play game/tutorial,"Error ""An error occurred running he unity content on this page. See your browser JavaScript console for more info. The error was:abort(275)at Error at jsStackTrace(https://www.endersgate.app/build/EndersGateTCG.framework.js:2:16364",Yes,Yes,Heather Gardner
+660cfb111b1dc82d370b1c3a,1,2024-02-27 00:00:00,Login/UI/Game/Main Page,"One of the bugs I found in the game is while doing the tutorial for gameplay if I click in one card and move to another instruction inside the game, the current steps does not update correctly",the cards update sooner to the current state of the action in the introduction,While in other card selection the previous card would keep the current Mouse Click state and respond as if it is currently clicked,yes,Yes,Javier Galan
+660cfb111b1dc82d370b1c42,6,2024-02-22 00:00:00,Game,User Case,"I expect that when I click ""Arena"", that it would only take a few second for the ""matchmaking"" to happen so I can actually play","When I click ""Arena"" it tells me ""Matchmaking...Please wait"" and then nothing happens",Yes,Yes,Mirna Farahat
+660cfb111b1dc82d370b1c45,3,2024-02-22 00:00:00,Game,Game starts in endless loop,"Launch game, execute turn","Launch game, turn timer cycles quickly back and forth. User cannot do anything",no,Yes,Randy Herrera
+660cfb111b1dc82d370b1c4a,8,2024-02-27 00:00:00,Game,Refreshing does not fix frozen state,Refresh the page to undo a frozen game state,"After refresh, all games remain in frozen unplayable state",yes,Yes,Randy Herrera
+660cfb111b1dc82d370b1c4b,1,2024-02-21 00:00:00,Turotial,Bug: Deck BuilderTutorial,Go to the Deck Builder Tutorial,When Clicked Nothing Happened and it says i completed it,No,Yes,Ramon
+660cfb111b1dc82d370b1c4c,2,2024-02-21 00:00:00,Turotial,Bug: Normal Tutorial practrice,Activating trap card  void trap,The AI Froze and could not continue game,Yes,Yes,Ramon
+660cfb111b1dc82d370b1c58,8,2024-02-24 00:00:00,refresh page,Starts all over with authentication,would refresh and stay in the home page since I was already logged in and authenticated,refreshed to the beginning and had to authenticate all over again,yes,Yes,Mimi Truong
+660cfb111b1dc82d370b1c5e,14,2024-02-24 00:00:00,game play,battle mode not activated,first round fo rme to have battle mode,I wasnt able to battle but oponent was.,yes,Yes,Mimi Truong
+660cfb111b1dc82d370b1c5f,15,2024-02-24 00:00:00,game play,timer stuck,timer moving,timer for opponent stuck,yes,Yes,Mimi Truong
+660cfb111b1dc82d370b1c62,18,2024-02-27 00:00:00,connect to server,Still connecting to server after several minutes after authentication,home page loads,still connecting to the server since everyone is playing,Yes,Yes,Mimi Truong
+660cfb111b1dc82d370b1c67,1,2024-02-25 00:00:00,Main Page,bug: clicking tutorial deck builder is not letting me access the tutorial,Enter the tutorial,Nothing Happened,yes,Yes,Jorge Torrez
+660cfb111b1dc82d370b1c6c,2,2024-02-27 00:00:00,game play,"I tried again an hour later it worked while doing the 1st Tutorial 1 minute in logged me out and I still heard the game music, but I am out of the game and couldn’t login again.",Play the tutorial,game logged out,"I don’t know, couldn’t login again",Yes,Hampig Kodjanian
+660cfb111b1dc82d370b1c6d,1,2024-02-27 00:00:00,Game,Bug: Game boots me back to main menu during tutorial,Game plays normally,Logged out of game to main menu,No,Yes,Grigor Azakian
+660cfb111b1dc82d370b1c6e,2,2024-02-27 00:00:00,Game,User: Latency indicator blocking GUI elements,Latency indicator owns its own spot on the page,Latency indicator covering GUI elements,Tes,Yes,Grigor Azakian
+660cfb111b1dc82d370b1c6f,1,2024-02-27 00:00:00,Login/UI/Game/FindMatch  Login/UI/Game/training,"Bug: Whenever I try to find a match online or go to the training, the game does not load into the game, and is just stuck loading the match",I would get in a match,The game does not load into the match,Yes,Yes,Omar Garcia
+660cfb111b1dc82d370b1c72,4,2024-02-27 00:00:00,Login/UI/Game/Friends,"Bug? Whenever I ask friend to battle, and they accept, the game loads in, but logs both of us out",Expecting to play with a friend,I couldn't get a game and it always logged both of us out,Yes,Yes,Omar Garcia
+660cfb111b1dc82d370b1c73,1,2024-02-27 00:00:00,Login/UI/Game/FindMatch  Login/UI/Game/training,"Bug: Whenever I try to find a match online or go to the training, the game does not load into the game, and is just stuck loading the match",I would get in a match,The game does not load into the match,Yes,Yes,Kevin Chaja
+660cfb111b1dc82d370b1c76,4,2024-02-27 00:00:00,Login/UI/Game/Friends,"Bug? Whenever I ask friend to battle, and they accept, the game loads in, but logs both of us out",Expecting to play with a friend,I couldn't get a game and it always logged both of us out,Yes,Yes,Kevin Chaja
+660cfb111b1dc82d370b1c79,3,2024-02-25 00:00:00,flip card,"bug: whenever i try to flip the ""void trap"" card the game stops working (i still hear the game and see the game background effects moving, but timer stops.)",do as the card is exepcted.,game stops,yes (played 2 games),Yes,Victor Um
+660cfb111b1dc82d370b1c8c,2,2024-02-27 00:00:00,Main Page,Stuck on Connecting to Server,Message to appear but connect and move on,Stuck on connecting screen,yes,Yes,Jack Konyan
+660cfb111b1dc82d370b1c8f,5,2024-02-27 00:00:00,Game,Launch Deck Builder Tutorial,Tutorial starts,Nothing happens and tutorial is marked as complete,No,Yes,Jack Konyan
+660cfb111b1dc82d370b1c9d,0,"Use date you 
+tested on
+2/25/2024",Login/UI/Game/Main Page,"Bug: I am on Mac OS and when I click on “New Player” it takes me to a tutorial and it says “To begin the game, draw a new card.” And it does not let me draw any cards. The browser I am playing on is Chrome.",I expected the game to let me draw a card with my mouse.,What actually happened is that it did not let me click on a card to draw.,yes,Yes,"Your name
+Angel Venegas"
+660cfb111b1dc82d370b1c9e,1,2024-02-25 00:00:00,Main Page,User Case I tried scrolling left and right when,I expected left and right scrolling,No left and right scrolling.,Yes,Yes,Angel Venegas
+660cfb111b1dc82d370b1cae,3,2024-02-26 00:00:00,Main Page/Online Friends,Blurry and unresponsive main page,Expected to go back to the main page after looking at the  online players list,"When clicking on the upper right button for online players list and then trying to go back to the main page, we are left with a blurry image of the main page (like the background we had when we were looking at the online players list). Trying to click buttons did not work and had to reload website and log back in.",Yes,Yes,Angeles Montalvo
+660cfb111b1dc82d370b1cb1,6,2024-02-26 00:00:00,First Gameplay Tutorial,Tutorial could not be completed,"Being able to select cards, mark the checkmark box ""Complete the tasks…"", see the background","The entire time the background of the game was black (same thing happened in Trainning Mode), could not select any of the cards, could not check the box under Luna's dialogue, and a blue box/square was misplaced on the lower right I think the box is where Luna's dialogue is supposed to go. After exiting the tutorial it was marked as COMPLETE even though it wasn't completed",Yes,Yes,Angeles Montalvo
+660cfb111b1dc82d370b1cb4,2,2024-02-27 00:00:00,UI,"Bug: Opening friends list and then open ""Add Friends"" and then closing both menus",Close both menus and return to menu,Menu is unable to be intreacted and is blurred. Cannot be resolved until you refresh the page,yes,Yes,Jae Molina
+660cfb111b1dc82d370b1cb6,1,2024-02-25 00:00:00,Login,Magic Authentication link times out and doesn’t recover,Allow sign in after new sign in attempt,Keeps asking for request signature,yes,Yes,Jaber Mazari
+660cfb111b1dc82d370b1cc6,1,2024-02-23 00:00:00,Tutorial,Card cannot be clicked on. Prevented by an overlay,Exit out of the overlay or click on required card to continue,Overlay card prevents further progress,Yes,Yes,Jorge Enriquez
+660cfb111b1dc82d370b1cc8,3,2024-02-27 00:00:00,Main Menu,"After user is kicked from inactivity, user can no longer log back in",User’s browser should open Magic to log in,No tab or pop up appears for log in,Yes,Yes,Jorge Enriquez
+660cfb111b1dc82d370b1cd9,5,2024-02-28 00:00:00,Game,ex bug: clicking deck tutorial won't let me play,I expected to play the deck tutorial,I can't play it,yes,Yes,Mansoor Amza
+660cfb111b1dc82d370b1cdc,0,2024-02-26 00:00:00,Gameplay Tutorial Page,"Bug: The E-Axe Void Mode overlay became stuck after double clickg the ""Gargoyle"" card and clicking ""Activate"". When it was time to enhance the stats of the Guardian using action cards, the card was not selectable since the E-Axe Void Mode overlay was in the way","I expected the overlay to disapear when the Gargoyle card was ""Activated""",The E-Axe Void Mode overlay stayed on the screen and prevented progression of the tutorial,Yes,Yes,Katrina Ortiz
+660cfb111b1dc82d370b1cdd,1,2024-02-26 00:00:00,Gameplay Tutorial Page,"Bug: When aggressively clicking around during the phase selector for Main Phase 2, the highlight box got stuck and the phase selector overlay disappeared",I expected the phase selector overlay to be able to come back after clicking off of it,The phase selector overlay dispeared and the highlight box remains and the tutorial was stuck,Yes,Yes,Katrina Ortiz
+660cfb111b1dc82d370b1ce1,5,2024-02-26 00:00:00,Gameplay Tutorial Page,"Bug: You can click the phase selector before the tutorial instructs you to draw a new card to begin gameplay. When you do that, the phase selector overlay gets stuck and prevents you from clicking to draw the card",I expected the phase selector to either be non-selectable or close on its own if it is pressed before the tutorial instructs the user to press it or if it is pressed at a different time of the tutorial than intended,"The phase selector was selectable before the tutorial seemed to intend the user to select and therefore, the phase selector overlay got stuck and prevented the progression of the tutorial",Yes,Yes,Katrina Ortiz
+660cfb111b1dc82d370b1ceb,15,2024-02-27 00:00:00,Add Friends Page,"Bug: After closing the ""Add Friends"", the background stays blurry and prevents further navigation of the website","I expect the background to return to normal after closing the ""Add Friends"" page","The background remained blurry after closing the ""Add Friends"" background and prevented further navigation of the website",Yes,Yes,Katrina Ortiz
+660cfb111b1dc82d370b1cf3,23,2024-02-27 00:00:00,Gameplay Tutorial Page,"Bug: I was able to ""Hire"" and ""Set"" every card by the Main Phase 2 stage in the Gameplay tutorial and the tutorial became stuck and was not able to progress",I expect to be prevented from doing something in the Gameplay tutorial that is not meant to happen at that stage in the tutorial,"I was able to ""Hire"" and ""Set"" every card by the Main Phase 2 stage in the Gameplay tutorial and the tutorial became stuck and was not able to progress",Yes,Yes,Katrina Ortiz
+660cfb111b1dc82d370b1cf4,24,2024-02-27 00:00:00,Gameplay Tutorial Page,"Bug: I was able click ""Activate"" on the ""Cursed Jian"" card before the Main Phase 2 stage in the Gameplay tutorial and the tutorial became stuck and was not able to progress since the ""Cursed Jian"" overlay was covering the card I was supposed to ""Set"" to progress the tutorial",I expect to be prevented from doing something in the Gameplay tutorial that is not meant to happen at that stage in the tutorial,"I was able click ""Activate"" on the ""Cursed Jian"" card before the Main Phase 2 stage in the Gameplay tutorial and the tutorial became stuck and was not able to progress since the ""Cursed Jian"" overlay was covering the card I was supposed to ""Set"" to progress the tutorial",Yes,Yes,Katrina Ortiz
+660cfb111b1dc82d370b1cf7,3,2024-02-27 00:00:00,Tutorial,"When I got disconnected while doing the first gameplay tutorial, I got back on 20 minutes later and it said I had finished it. I clicked the play and it still worked and I was able to do the tutorial but doing the tutorial made the game think I had completed the deck builder tutorial as well. Now when I try to do the deck builder tutorial nothing happens when I click play.",Start deck builder tutorial,Nothing,Yes,Yes,Brandon Hakimi
+660cfb111b1dc82d370b1d33,3,2024-02-26 00:00:00,Main Menu,"After clicking friends, add friends, then exiting the add friends tab, I cant click anyhting in the main menu, its all blurred out",Friends menu to close and use main menu again,"Main menu is all blurred out after closing friends menu, cant click anything",Yes,Yes,Artim Trofimenko
+660cfb111b1dc82d370b1d34,4,2024-02-26 00:00:00,Arena,"After creating my deck and selecting it, i tried going into the arena, and as the game loaded it just kicked me out to the sign in page",For me to play a match,Game closed and brought me to sign it page,Yes,Yes,Artim Trofimenko
+660cfb111b1dc82d370b1d39,1,2024-02-20 00:00:00,Game,"Would not let me select guardian to activate 
+ abilities",Move to next phase/turn/battle,Game would not let me advance,no,Yes,Joey Kaz
+660cfb111b1dc82d370b1d3d,5,2024-02-20 00:00:00,UI,Deck builder tutorial does not launch when clicked,For tutorial to launch,"Tutorial selection menu closes
+ and nothing else happens",yes,Yes,Joey Kaz
+660cfb111b1dc82d370b1d41,9,2024-02-25 00:00:00,Game,"Stuck on endless loop on first turn of game during 
+ selection phase. Just repeated pop ups of 
+ ""Selection Phase""","Would let me select my 
+ guardians","Time ran out and couldn't select
+ guardians",No,Yes,Joey Kaz
+660cfb111b1dc82d370b1d52,2,2024-02-25 00:00:00,Main Page,"Click on deck builder tutorial and it 
+ wont proceed",visit tutorial,blocked from visiting,yes,Yes,Jake Anderson
+660cfb111b1dc82d370b1d5d,1,2024-02-23 00:00:00,Game,Clicking on tutorial elements before being prompted to do leads to softlock,Game should prevent me from pushing the button before or skip ahead if I already have,Tutorial waited for me to press the button but could no longer do so since I already did,Yes,Yes,Ricky Malagon
+660cfb111b1dc82d370b1d84,1,2024-02-25 00:00:00,Main Page,Deck builder tutorial button not doing anything.,To take me to deck builder tutorial.,Game stayed on main page.,Yes,Yes,Monte Tamazyan
+660cfb111b1dc82d370b1d86,1,2024-02-25 00:00:00,UI/First Gameplay Tutorial,"bug: After dragging out the screen, the game no longer allows users to select highlighted cards.",Users should be able to select highlighted cards regardless of the screen size or position.,Selection of highlighted cards becomes non-responsive after dragging out the screen.,Yes,Yes,Abigail Macias
+660cfb111b1dc82d370b1d91,1,2024-02-24 00:00:00,UI,Deck Builder button tutorial not clickable,Start the decker tutorial,Take me back to homepage,Yes,Yes,Felix Moreno
+660cfb111b1dc82d370b1d92,2,2024-02-25 00:00:00,Game,AI Froze On Draw,AI responde on his turn,AI Froze on Draw Phase,No,Yes,Felix Moreno
+660cfb111b1dc82d370b1d94,1,"Use date you 
+ tested on
+ 2/25/2024",Game,"After the first phase I tried clicking on the ""Complete the tasks…."" and the botton is frozen it does nothing","Game to continue and me
+  draw cards","Screen is frozen, does not 
+ let me continue with my tutorial game",yes,Yes,Albert Atshemyan
+660cfb111b1dc82d370b1d95,2,"Use date you 
+ tested on
+ 2/25/2025",Game,"Chomre using almost 1,500 Mb, almost all of my Laptop Memory.","Game should run very smooth but it does not, very laggy. Game should run flawlesly on laptops","Screen is froze sometimes when starting tutorial. Chrome using 1,500 MB of memory.",yes,Yes,Albert Atshemyan
+660cfb111b1dc82d370b1d9b,1,2024-02-25 00:00:00,Game,Trying to play/test the game,Playable latency,Latency is way too high to play,yes,Yes,Joshua alvarado
+660cfb111b1dc82d370b1da4,1,2024-02-24 00:00:00,Main Page / Game,bug : build deck tutorial play button does not work,be able to play build deck tutorial when clicking on play,nothing happens when clicking play,yes,Yes,Tommy Tran
+660cfb111b1dc82d370b1db0,1,2024-02-25 00:00:00,Main Page,A frozen screen,Expected to leave online players list back to main screen and it all froze,Frozen,Yes,Yes,Jose Flores
+660cfb111b1dc82d370b1db1,2,2024-02-25 00:00:00,Login,Logged out,Expected to stay logged in after refreshing and completely logged out,Had to login again,Yes,Yes,Jose Flores
+660cfb111b1dc82d370b1db2,1,2024-02-25 00:00:00,Main Page,A frozen screen,Expected to leave online players list back to main screen and it all froze,Frozen,Yes,Yes,Kevin Chaja
+660cfb111b1dc82d370b1db3,2,2024-02-25 00:00:00,Login,Logged out,Expected to stay logged in after refreshing and completely logged out,Had to login again,Yes,Yes,Kevin Chaja
+660cfb111b1dc82d370b1db9,2,2024-02-22 00:00:00,UI (Deck Builder),Adding card to deck adds it.,Card is added to deck.,"Cards add until a previously added card is removed, then they don't add.",Yes,Yes,Jason Ross

@@ -1,0 +1,10 @@
+Test #,Build #,Category,Test Case,Expected Result,Actual Result,Repeatable?,Blocker?,Test Owner
+0,"Use date you 
+tested on
+2/19/2024",Login/UI/Game/Main Page,"Type the bug or user case to note here
+ex bug: clicking exit doesn't exit
+ex user case: timers take too long",What you expect to happen,What actually happened,yes/no,Yes/no,"Your name
+ex: Kevin Chaja"
+1,03/13/24,UI,Window size not fitted,window size fitted to screen,"didn’t fit, zoomed in",yes,no,Omar Monge
+2,03/13/24,login,can’t login,window closed to authenticate ,window close then didn’t log in,yes,yes,Omar Monge
+3,03/13/24,login,not connecting to server,connection to server,not connected to server,yes,yes,Omar Monge

@@ -1,0 +1,9 @@
+Test #,Build #,Category,Test Case,Expected Result,Actual Result,Repeatable?,Blocker?,Test Owner
+0,"Use date you 
+tested on
+2/19/2024",Login/UI/Game/Main Page,"Type the bug or user case to note here
+ex bug: clicking exit doesn't exit
+ex user case: timers take too long",What you expect to happen,What actually happened,yes/no,Yes/no,"Your name
+ex: Kevin Chaja"
+1,02/28/24,Game,Framerate really choppy,not choppy 60fps,nothing happens,yes,no,Omar Monge
+2,02/28/24,Tutorial,turn manphase doesn’t work,continue tutorial,nothing happens,yes,no,Omar Monge
